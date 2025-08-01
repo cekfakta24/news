@@ -1,0 +1,7 @@
+﻿User-agent: *
+Disallow: /assets/
+Disallow: /scripts/
+Disallow: /private/
+Allow: /
+
+Sitemap: https://cekfakta24.github.io/news/sitemap.xml
